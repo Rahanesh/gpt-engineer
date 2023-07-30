@@ -31,8 +31,8 @@ For **development**:
 
 - `gpt\scripts\activate`
 
-- `git clone https://github.com/AntonOsika/gpt-engineer.git`
-- `cd gpt-engin`
+- `git clone https://github.com/rahanesh/gpt-engineer.git`
+- `cd gpt-engineer`
 - `pip install -e .`
   - (or: `make install && source venv/bin/activate` for a venv)  برای لینوکس
 
